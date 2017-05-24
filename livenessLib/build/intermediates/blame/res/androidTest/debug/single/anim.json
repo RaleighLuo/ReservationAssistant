@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/anim/liveness_leftout.xml",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/anim/liveness_leftout.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/anim/liveness_rightin.xml",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/anim/liveness_rightin.xml"
+    }
+]

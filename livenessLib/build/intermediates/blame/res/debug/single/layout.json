@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/Raleigh.Luo/.android/build-cache/710221b1dc2a84031ea76a2fb52efb0b9dcbc403/output/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/liveness_layout.xml",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/src/main/res/layout/liveness_layout.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/Raleigh.Luo/.android/build-cache/710221b1dc2a84031ea76a2fb52efb0b9dcbc403/output/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/Raleigh.Luo/.android/build-cache/710221b1dc2a84031ea76a2fb52efb0b9dcbc403/output/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/Raleigh.Luo/.android/build-cache/710221b1dc2a84031ea76a2fb52efb0b9dcbc403/output/res/layout/leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/Raleigh.Luo/.android/build-cache/710221b1dc2a84031ea76a2fb52efb0b9dcbc403/output/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/liveness_layout2.xml",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/src/main/res/layout/liveness_layout2.xml"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/debug/layout/liveness_detection_step.xml",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/src/main/res/layout/liveness_detection_step.xml"
+    }
+]

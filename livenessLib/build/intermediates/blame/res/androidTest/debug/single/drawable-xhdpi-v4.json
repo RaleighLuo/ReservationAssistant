@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_layout_camera_mask.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_layout_camera_mask.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bg_nothing.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bg_nothing.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_mouth.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_mouth.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_right.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_right.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_surfacemask.9.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_surfacemask.9.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_head_left.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_left.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_faceppinside.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_faceppinside.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/leak_canary_icon.png",
+        "source": "/Users/Raleigh.Luo/.android/build-cache/710221b1dc2a84031ea76a2fb52efb0b9dcbc403/output/res/drawable-xhdpi-v4/leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_head_up.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_up.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_left.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_left.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_eye.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_eye.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_layout_gradient_back.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_layout_gradient_back.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_head_down.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_down.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_head.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_layout_head_mask.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_layout_head_mask.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_head_right.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_right.png"
+    },
+    {
+        "merged": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/liveness_layout_bottom_tips.png",
+        "source": "/Users/Raleigh.Luo/Documents/ASWorkspace/yuwutong/libraries/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_layout_bottom_tips.png"
+    }
+]
